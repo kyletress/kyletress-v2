@@ -3,6 +3,9 @@ title: Kyle Tress
 url: http://tress.siteleaf.net
 timezone: UTC
 collections:
+  books:
+    title: Books
+    output: true
   uploads:
     title: Uploads
     output: true
