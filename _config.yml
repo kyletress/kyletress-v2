@@ -6,9 +6,6 @@ collections:
   books:
     title: Books
     output: true
-  races:
-    title: Races
-    output: true
   uploads:
     title: Uploads
     output: true
