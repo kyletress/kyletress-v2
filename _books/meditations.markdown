@@ -9,12 +9,10 @@ Information:
   Link: www.amazon.com
   Pages: 224
 Notes:
-- |-
-  *This* is markdown, right?
-
-  -- Page 102
-- This is another note for the book?
-- 'This is a third and final note for the particular book. '
+- quote: 'This is the footnote. '
+  page: 102
+  note: 'This is what I think about this note. '
+Genre: Philosophy
 ---
 
 Just testing the new siteleaf 'collections' type.
