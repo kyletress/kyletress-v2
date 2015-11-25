@@ -25,3 +25,5 @@ defaults:
   values:
     layout: page
 permalinks: pretty
+description: The personal website of Olympic skeleton athlete Kyle Tress
+username: kyletress
