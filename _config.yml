@@ -9,6 +9,9 @@ collections:
   newsletters:
     title: Newsletters
     output: true
+  skeleton-faqs:
+    title: Skeleton Faqs
+    output: true
   uploads:
     title: Uploads
     output: true
